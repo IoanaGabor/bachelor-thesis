@@ -1,6 +1,8 @@
 # Efficient Reconstruction of Visual Stimuli from fMRI Using Diffusion Models  
 
-This repository contains the code developed as part of my Bachelor’s thesis *“Efficient Reconstruction of Visual Stimuli from fMRI Using Diffusion Models”*, submitted at Babeș-Bolyai University in 2025.  
+This repository contains the code developed as part of my Bachelor’s thesis *“Efficient Reconstruction of Visual Stimuli from fMRI Using Diffusion Models”*, submitted at Babeș-Bolyai University in 2025. The **[research component](https://github.com/IoanaGabor/efficient-vbd)** was accepted at **Innovative Perspectives on Computational Intelligence and Data Science ([InnoComp](https://innocomp.eu/)) 2025** and presented in a talk at [WeADL 2025](https://www.cs.ubbcluj.ro/weadl/invited-talks/).
+
+
 The project investigates the performance of **resource-efficient pipelines** for brain-to-image reconstruction.  
 As a secondary goal, a **web application** was developed to enable direct interaction with the trained models.  
 
@@ -67,7 +69,7 @@ The web application is composed of several core components:
 ## Acknowledgements  
 
 This work builds upon several key contributions in the field of visual brain decoding and generative modeling. We thank the authors for generously sharing their codebases.
-- [**Brain Diffuser** (Ozcelik et al., 2023)] (https://github.com/ozcelikfu/brain-diffuser)
+- [**Brain Diffuser** (Ozcelik et al., 2023)](https://github.com/ozcelikfu/brain-diffuser)
 - [**BrainGuard** (Tian et al., 2025)](https://github.com/kunzhan/brainguard)
-- [**IP-Adapter**(Ye et al., 2023)] (https://github.com/tencent-ailab/IP-Adapter)
-- [**Natural Scenes Dataset (NSD)** (Allen et al., 2021)] (https://naturalscenesdataset.org/)
+- [**IP-Adapter**(Ye et al., 2023)](https://github.com/tencent-ailab/IP-Adapter)
+- [**Natural Scenes Dataset (NSD)**(Allen et al., 2021)] (https://naturalscenesdataset.org/)
